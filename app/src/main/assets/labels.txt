@@ -1,0 +1,3 @@
+0 Manzana
+1 Platano
+2 Uva
